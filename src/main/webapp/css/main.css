@@ -1,0 +1,29 @@
+
+* {
+ font-size: 12px;
+ font-family: helvetica, arial;
+}
+
+table {
+    border: 1px solid #ccc;    
+} 
+
+table thead {
+    border: 1px solid #000;    
+}
+
+table thead th {
+   background-color: #dedede; 
+}
+
+table tbody td {
+   padding: 0 3px; 
+}
+
+.even {
+    background-color: #FFF;    
+}
+
+.odd {
+    background-color: #EFEFEF;
+}
